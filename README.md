@@ -27,6 +27,7 @@ pip install tensorflow numpy opencv-python pillow matplotlib
 # How to Run -
 1.Run the script:
 python digit_recognizer.py
+If we run first time then it create a file mnist_model.h5 file,After creating the file stop the program and re-run.
 2.Select your images from the file dialog window-
 Supported formats: .png, .jpg, .jpeg, .bmp
 3.iew the prediction – The program will show:
