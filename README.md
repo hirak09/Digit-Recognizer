@@ -1,4 +1,4 @@
-🖋 Digit Recognizer – Train on MNIST, Predict from Any Image
+ Digit Recognizer – Train on MNIST, Predict from Any Image
 This Python program trains a Convolutional Neural Network (CNN) on the MNIST handwritten digit dataset and allows you to predict digits from your own images.
 
 It automatically preprocesses arbitrary images into MNIST-like format (28×28 grayscale, centered) so you can test it with photos, scans, or screenshots of handwritten numbers.
